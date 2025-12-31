@@ -18,3 +18,4 @@ docs/index
 api/index
 ```
 
+babel -isdf input.sdf -opdb output.pdb
